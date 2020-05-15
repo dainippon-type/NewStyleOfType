@@ -1,10 +1,12 @@
 # New Type Style (New Normal)
 
-OpenTypeフォント 「新しい書体様式」を提案します
-
 [Download](https://github.com/dainippon-type/NewTypeStyle/releases)
 
+![NewTypeStyle](NewTypeStyle.png)
+
 ---
+
+OpenTypeフォント 「新しい書体様式」を提案します
 
 ## 新しい書体様式
 
@@ -37,5 +39,3 @@ We propose OpenType font "New Type Style (New Normal)".
    - You can Download [here](https://github.com/dainippon-type/NewTypeStyle/releases).
 
 This version has only uppercase letters and numbers. More will be added in the next update.
-
-![NewTypeStyle](NewTypeStyle.png)
