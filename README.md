@@ -39,3 +39,6 @@ We propose OpenType font "New Type Style (New Normal)".
    - You can Download [here](https://github.com/dainippon-type/NewTypeStyle/releases).
 
 This version has only uppercase letters and numbers. More will be added in the next update.
+
+
+(c) 2020 dainippon type organization. all rights reserved. http://dainippon.type.org/
