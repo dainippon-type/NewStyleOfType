@@ -24,7 +24,7 @@ OpenTypeフォント 「新しい書体様式」を提案します
 
 ---
 
-We propose OpenType font "New Type Style (New Normal)".
+We propose OpenType font "New Style of Type (New Normal)".
 
 ## New Style of Type (New Normal)
 
