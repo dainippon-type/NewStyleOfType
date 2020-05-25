@@ -18,7 +18,7 @@ OpenTypeフォント 「新しい書体様式」を提案します
  - **wオーバーシュートさせない**
    - ベースラインなどからオーバーシュ=トする箇所をカットしました。
  - **オンラインを活用する**
-   - [ここ](https://github.com/dainippon-type/NewTypeStyle/releases)からダウンロードすることができます。
+   - [ここ](https://github.com/dainippon-type/NewStyleOfType/releases)からダウンロードすることができます。
 
 このバージョンでは、大文字と数字しかありません。小文字などは次のアップデートで追加予定です。
 
