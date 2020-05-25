@@ -1,8 +1,8 @@
-# New Type Style (New Normal)
+# New Style of Type (New Normal)
 
-[Download](https://github.com/dainippon-type/NewTypeStyle/releases)
+[Download](https://github.com/dainippon-type/NewStyleOfType/releases)
 
-![NewTypeStyle](NewTypeStyle.png)
+![NewStyleOfType](NewStyleOfType.png)
 
 ---
 
@@ -26,7 +26,7 @@ OpenTypeフォント 「新しい書体様式」を提案します
 
 We propose OpenType font "New Type Style (New Normal)".
 
-## New Type Style (New Normal)
+## New Style of Type (New Normal)
 
 ### Features
  - **Avoid contact. Do not intersect**
@@ -36,7 +36,7 @@ We propose OpenType font "New Type Style (New Normal)".
  - **Anti-overshoot**
    - Cutted the parts over the line. (ex. Upper and lower curves such as "O", and the upper part of "A")
  - **Using Online**
-   - You can Download [here](https://github.com/dainippon-type/NewTypeStyle/releases).
+   - You can Download [here](https://github.com/dainippon-type/NewStyleOfType/releases).
 
 This version has only uppercase letters and numbers. More will be added in the next update.
 
